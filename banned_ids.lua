@@ -1,4 +1,3 @@
-return 
-{
-  5843090965
+return {
+    {id = 5843090965, reason = "test"}
 }
